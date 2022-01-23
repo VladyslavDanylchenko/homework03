@@ -39,6 +39,7 @@ public class Human {
     }
 
     public Human() {
+        this(null, null, null, null);
     }
 
     public Human(String firstName, String lastName, String dateOfBirth, String phone) {
