@@ -1,7 +1,5 @@
 package com.softserveinc.task02;
 
-import java.sql.SQLOutput;
-
 /**
      1. Create a public class named City in this package
      2. Class should have the private fields:
